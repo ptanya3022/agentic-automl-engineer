@@ -2,7 +2,10 @@
 
 ### 🤖 A powerful agent-based AutoML assistant that automates the entire ML pipeline — from preprocessing to model selection, hyperparameter tuning, and performance reporting — all wrapped in an intuitive Streamlit interface.
 
-🔗 **[Live Demo](https://agentic-automl-engineer-poemderjyy3jkj3qputpxz.streamlit.app/)**  
+🔗 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-blueviolet?style=for-the-badge&logo=streamlit)](https://agentic-automl-engineer-poemderjyy3jkj3qputpxz.streamlit.app/)
+
+
+
 📁 **Dataset Sample**: `diabetes.csv` (or any tabular dataset)
 
 ---
